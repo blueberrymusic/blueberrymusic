@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-The repo for [Deep Learning: A Visual Approach](https://nostarch.com/deep-learning-visual-approach)
+The repo for my book [Deep Learning: A Visual Approach](https://nostarch.com/deep-learning-visual-approach)
 contains all of the figures and Jupyter notebooks from the book, *for free*! There are also 3
 bonus chapters (coming very soon).
 
