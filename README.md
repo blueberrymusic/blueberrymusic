@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-The repo for my book [Deep Learning: A Visual Approach](https://nostarch.com/deep-learning-visual-approach)
-(or [on Amazon](https://smile.amazon.com/dp/B085BVWXNS)
-contains all of the figures and Jupyter notebooks from the book, along with 3 bonus chapters, *all for free*! 
+You've found
+the repo for my book **Deep Learning: A Visual Approach** (buy it 
+[direct from my publisher](https://nostarch.com/deep-learning-visual-approach)
+or [on Amazon](https://smile.amazon.com/dp/B085BVWXNS).
+It contains all of the figures and Jupyter notebooks from the book, along with 3 bonus chapters, *all for free*! 
 Click the repo below or [click here to go to the book's repo](https://github.com/blueberrymusic/Deep-Learning-A-Visual-Approach).
 
 
