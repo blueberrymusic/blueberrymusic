@@ -7,7 +7,7 @@ the repo for my book **Quantum Computing: From Concepts to Code**
 (buy it [direct from my publisher](https://nostarch.com/deep-learning-visual-approach)
 or from [Amazon](https://smile.amazon.com/dp/B085BVWXNS). 
 The errata for the book is in the book's repo,
-or you can just [click here]().
+or you can just [click here](https://github.com/blueberrymusic/Quantum-Computing-Book/blob/main/QC%20book%20errata.pdf).
 
 ## Looking for my Deep Learning book? 
 
