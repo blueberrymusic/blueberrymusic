@@ -2,9 +2,9 @@
 
 ## Looking for my Quantum Computing book? 
 
-You found it! This is
+You found it! In one of the boxes below you'll see
 the repo for my book **Quantum Computing: From Concepts to Code**,
-including the errata 
+which includes the errata
 (buy it [direct from my publisher](https://nostarch.com/deep-learning-visual-approach)
 or from [Amazon](https://smile.amazon.com/dp/B085BVWXNS).
 
